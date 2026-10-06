@@ -41,6 +41,12 @@ The application:
 
 ---
 
+## Demo
+
+A short walkthrough of the FHIR Patient Clinical Explorer in action.
+
+![FHIR Patient Clinical Explorer Demo](docs/demo.gif)
+
 ## Architecture
 
 ```text
